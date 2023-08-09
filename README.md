@@ -66,7 +66,7 @@ Installation
 
 ### 1. Clone the repository in the same directory as your Azure ML notebook/script
 ```sh
-git clone https://sourcecode.socialcoding.bosch.com/scm/~tiy2kor/azure_kpi_metrics.git
+git clone https://github.com/anaghapatill/Azure-ML-Metrics.git
 ```
 
 ### 2. Navigate to the *azure_kpi_metrics* folder
