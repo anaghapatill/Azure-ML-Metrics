@@ -1,0 +1,6 @@
+azure-functions
+azureml-core
+numpy
+pandas
+scikit-learn
+pymsteams
